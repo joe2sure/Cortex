@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>GADApplicationIdentifier</key>
+	<string>ca-app-pub-3940256099942544~2594085930</string>
+	<!--TODO Test key <string>ca-app-pub-3940256099942544~2594085930</string> -->
+	<key>CADisableMinimumFrameDurationOnPhone</key>
+	<true/>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>$(DEVELOPMENT_LANGUAGE)</string>
+	<key>CFBundleDisplayName</key>
+	<string>Vizion AI</string>
+	<key>CFBundleExecutable</key>
+	<string>$(EXECUTABLE_NAME)</string>
+	<key>CFBundleIdentifier</key>
+	<string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>Vizion AI</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>$(FLUTTER_BUILD_NAME)</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleVersion</key>
+	<string>$(FLUTTER_BUILD_NUMBER)</string>
+	<key>CFBundleURLTypes</key>
+    	<array>
+        	<dict>
+        			<key>CFBundleTypeRole</key>
+        			<string>Editor</string>
+        			<key>CFBundleURLSchemes</key>
+        			<array>
+        				<string>com.googleusercontent.apps.680594428150-5rfkqumktcbu5sn2pme5c158nqqpusuo</string>
+        			</array>
+        	</dict>
+        </array>
+	<key>LSRequiresIPhoneOS</key>
+	<true/>
+	<key>NSAppTransportSecurity</key>
+	<dict>
+		<key>NSAllowsLocalNetworking</key>
+		<true/>
+	</dict>
+	<key>UIApplicationSupportsIndirectInputEvents</key>
+	<true/>
+	<key>UIBackgroundModes</key>
+	<array>
+		<string>fetch</string>
+		<string>remote-notification</string>
+	</array>
+	<key>UILaunchStoryboardName</key>
+	<string>LaunchScreen</string>
+	<key>UIMainStoryboardFile</key>
+	<string>Main</string>
+	<key>UISupportedInterfaceOrientations</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+		<string>UIInterfaceOrientationLandscapeLeft</string>
+		<string>UIInterfaceOrientationLandscapeRight</string>
+	</array>
+	<key>UISupportedInterfaceOrientations~ipad</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+		<string>UIInterfaceOrientationPortraitUpsideDown</string>
+		<string>UIInterfaceOrientationLandscapeLeft</string>
+		<string>UIInterfaceOrientationLandscapeRight</string>
+	</array>
+	<key>NSMicrophoneUsageDescription</key>
+    <string>Vizion AI need this to record audio for voice-to-text AI model</string>
+    <key>NSSpeechRecognitionUsageDescription</key>
+    <string>Vizion AI need this to recognition speech for speech-to-text AI model</string>
+    <key>NSPhotoLibraryUsageDescription</key>
+    <string>Vizion AI app requires access to the photo library to upload photo to use App feature Photo Enhancer</string>
+    <key>NSCameraUsageDescription</key>
+    <string>Vizion AI app requires access to the Camera to upload photo to use App feature Photo Enhancer</string>
+   <key>LSApplicationQueriesSchemes</key>
+   <array>
+       <string>ppemerchantsdkv1</string>
+       <string>ppemerchantsdkv2</string>
+       <string>ppemerchantsdkv3</string>
+       <string>paytmmp</string>
+       <string>gpay</string>
+   </array>
+</dict>
+</plist>

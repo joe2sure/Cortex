@@ -1,0 +1,102 @@
+{
+  "project_info": {
+    "project_number": "680594428150",
+    "project_id": "vizion-ai-app",
+    "storage_bucket": "vizion-ai-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:680594428150:android:e311ac4f71609f92c3dcd7",
+        "android_client_info": {
+          "package_name": "com.iqonic.vizionai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "680594428150-0qrfue47qm2fres3314l6deg772hbbek.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.iqonic.vizionai",
+            "certificate_hash": "fb8b7a043f61b94815f204df1391bc16692a62b9"
+          }
+        },
+        {
+          "client_id": "680594428150-62i2ulr2k82oim91tg4k9ugmedg6jt18.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.iqonic.vizionai",
+            "certificate_hash": "20a6051392db2e0ed04acf4eea7ede52e9301c7d"
+          }
+        },
+        {
+          "client_id": "680594428150-765k4d8httikfohabs0trjv4d5tkh1pk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.iqonic.vizionai",
+            "certificate_hash": "285a45fc38f97af8b13d009428ec09eb5d13c909"
+          }
+        },
+        {
+          "client_id": "680594428150-fk7fhbrsbpki28dcrrueq15k2prcrjjf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.iqonic.vizionai",
+            "certificate_hash": "5406c3e9265dc3d04dac4f9b4bd339f74172613f"
+          }
+        },
+        {
+          "client_id": "680594428150-lfampk5ebrrg3u7gt75auajkk2260svp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.iqonic.vizionai",
+            "certificate_hash": "bdfff9657ecd1e746f19084010abf646fd360940"
+          }
+        },
+        {
+          "client_id": "680594428150-oe7j6ddn1a37rpk6a8odt7eo3sljbj64.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.iqonic.vizionai",
+            "certificate_hash": "1c79f957bc4ba966f60292313b54c6c6d78eb0a5"
+          }
+        },
+        {
+          "client_id": "680594428150-q4g4non89rb5n94t0i60aaam8gajm1it.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.iqonic.vizionai",
+            "certificate_hash": "60c20f6263f4ab7a5f364b64cbb3cb3d620ec9b6"
+          }
+        },
+        {
+          "client_id": "680594428150-akt4dcb2vvl9kj4jjsrafqjgnqnvgp0i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFdJJCuoxeJ1fhJBk7e5KMzvj_ryX5hmg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "680594428150-akt4dcb2vvl9kj4jjsrafqjgnqnvgp0i.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "680594428150-5rfkqumktcbu5sn2pme5c158nqqpusuo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.iqonic.vizionai"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
